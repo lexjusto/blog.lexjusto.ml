@@ -2,7 +2,7 @@
 title: lexjusto - is just my name # your site title
 author: lexjusto # You :P
 description: > # Meta description of Homepage
-  Description
+  Так себе бложек разработчика и скриптера ¯\_(ツ)_/¯
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://blog.lexjusto.ml" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -28,6 +28,8 @@ hero_img: hero-img.jpg # Main background image: use the path from /assets/img/ =
 
 email: the.lexjusto@gmail.com # email for form submission
 
+telegram_username: lexjusto
+vk_username: lexjusto
 twitter_username: lexjusto # replace with your_twitter_username or comment to remove link from footer
 github_username:  lexjusto # replace with your_github_username or comment to remove link from footer
 instagram_username: lexjusto # replace with your_instagram_username or comment to remove link from footer
