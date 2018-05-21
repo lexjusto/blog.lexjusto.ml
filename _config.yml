@@ -24,7 +24,7 @@ navigation: # Navigation links
 tagline: >
   Так себе бложек разработчика и скриптера ¯\_(ツ)_/¯
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: hero-img.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: the.lexjusto@gmail.com # email for form submission
 
