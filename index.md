@@ -6,4 +6,5 @@
 #
 layout: default
 title: Главная
+tags: [так себе бложег, скриптер, скриптер самп, samp, pawn разработчик, pawno скриптер, pawno]
 ---
