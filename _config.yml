@@ -1,10 +1,10 @@
-# SITE CONFIGURATION
-title: lexjusto - is just my name # your site title
-author: lexjusto # You :P
-description: > # Meta description of Homepage
+# GLOBAL SETTINGS
+title: lexjusto - is just my name # site title
+author: lexjusto # i am ;)
+description: > # site meta tag description
   Так себе бложек разработчика и скриптера ¯\_(ツ)_/¯
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://blog.lexjusto.ml" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.lexjusto.ml" # the base hostname & protocol for your site, e.g. https://google.com
 
 # SEO PLUGIN
 social:
