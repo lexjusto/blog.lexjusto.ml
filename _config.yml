@@ -4,7 +4,7 @@ author: lexjusto # i am ;)
 description: > # site meta tag description
   Так себе бложек разработчика и скриптера ¯\_(ツ)_/¯
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://blog.lexjusto.ml" # the base hostname & protocol for your site, e.g. https://google.com
+url: "https://blog.lxjst.com" # the base hostname & protocol for your site, e.g. https://google.com
 
 # SEO PLUGIN
 social:
